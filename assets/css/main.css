@@ -86,9 +86,16 @@ video {
   border: 0;
   font-size: 100%;
   font: inherit;
+  font-family: "Montserrat", sans-serif;
   vertical-align: baseline;
 }
 
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Varela", sans-serif;
+}
 article,
 aside,
 details,
@@ -3960,7 +3967,6 @@ body.is-preload #sidebar nav ul li {
 
 h1 {
   color: #fff;
-  font-size: 5em;
   letter-spacing: 8px;
   font-weight: 400;
   /*Create overlap*/
