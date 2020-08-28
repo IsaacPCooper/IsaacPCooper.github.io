@@ -3963,7 +3963,6 @@ body.is-preload #sidebar nav ul li {
 #glitchcontainer {
   width: 70vw;
   margin: 30vw auto;
-  padding-bottom: 30px;
 }
 
 h1 {
@@ -4153,4 +4152,7 @@ h1:nth-child(3) {
     transform: none;
     opacity: 0.25;
   }
+}
+.padded-bottom {
+  padding-bottom: 30px;
 }
