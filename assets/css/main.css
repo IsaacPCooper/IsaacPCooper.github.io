@@ -4156,3 +4156,7 @@ h1:nth-child(3) {
 .padded-bottom {
   padding-bottom: 30px;
 }
+
+#three {
+  text-align: center;
+}
