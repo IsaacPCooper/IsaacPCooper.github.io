@@ -3951,6 +3951,14 @@ body.is-preload #sidebar nav ul li {
   color:pink;
   text-shadow: 2px 2px black;
 }
+
+#intro .button{
+background-color:pink;
+border-color:black !important;
+color: black;
+ 
+}
+
 @media screen and (max-width: 980px) {
   #intro p br {
     display: none;
