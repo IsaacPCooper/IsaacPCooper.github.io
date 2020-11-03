@@ -3955,7 +3955,7 @@ body.is-preload #sidebar nav ul li {
 #intro .button{
 background-color:pink;
 border-color:black !important;
-color: black;
+color: black !important;
  
 }
 
