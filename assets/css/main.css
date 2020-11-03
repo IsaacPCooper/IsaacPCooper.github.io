@@ -3335,7 +3335,7 @@ table.alt tfoot {
 }
 
 .wrapper.style3 {
-  background-color: #6f2232;
+  background-color: black;
 }
 
 .wrapper.style3-alt {
@@ -4172,6 +4172,10 @@ h1:nth-child(3) {
 }
 .padded-bottom {
   padding-bottom: 30px;
+}
+
+#one{
+  color:pink;
 }
 
 #three {
