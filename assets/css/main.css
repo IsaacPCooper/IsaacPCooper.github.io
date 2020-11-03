@@ -3944,6 +3944,15 @@ body.is-preload #sidebar nav ul li {
   background-size: 100% 100%;
 }
 
+#intro video{
+width: 100%;
+display: flex;
+flex-flow: column;
+align-items: center;
+object-fit: cover;
+position: fixed;
+}
+
 #intro p {
   font-size: 1.25em;
 }
