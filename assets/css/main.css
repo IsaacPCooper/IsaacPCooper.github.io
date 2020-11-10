@@ -3330,11 +3330,11 @@ table.alt tfoot {
   background-color: pink;
   color:black;
 }
-.wrapper.style2.content.inner h2{
-  color:black;
+.wrapper.style2 h2{
+  color:black !important;
 }
 
-.wrapper.style2.content.inner.actions a{
+.wrapper.style2. a{
   color:black !important;
   border-color: black !important;
 }
