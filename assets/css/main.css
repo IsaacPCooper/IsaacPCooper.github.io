@@ -90,10 +90,18 @@ video {
   vertical-align: baseline;
 }
 
-body:-webkit-scrollbar
+body
 {
-display:none;
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
 }
+
+body::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
+
 h1,
 h2,
 h3,
